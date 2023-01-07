@@ -15,10 +15,12 @@ Scout2 robot carrying RS16 lidar/IMU/D435 sensors，running LIO-SAM in a room!
 
 more detail on my blog https://blog.csdn.net/weixin_40599145/article/details/126929222
 
+[Some additions](https://blog.kquark.com/post/24/)\
+
 # 2. Compile
 
 ```sh
-$ mkdir -P robot_ws/src
+$ mkdir -p robot_ws/src
 $ cd robot_ws/src
 $ git clone https://github.com/linzs-online/robot_gazebo.git
 $ cd ..
